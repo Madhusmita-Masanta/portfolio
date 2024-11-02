@@ -73,7 +73,7 @@ function Home() {
 
           {/* Text content */}
           <div className="flex flex-col items-center md:items-start">
-            <h2 className="font-sans text-3xl  mb-4 text-white">I'm Madhusmita Masanta</h2>
+            <h2 className="font-sans text-2xl  mb-4 text-white">I'm Madhusmita Masanta</h2>
 
             {/* Typing animation for job title */}
             <h2 className="text-1xl font-semibold text-white">
