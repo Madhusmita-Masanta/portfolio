@@ -3,6 +3,12 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const projects = [
+   {
+    title: 'real-estate-website',
+    description: 'Developed a fully responsive Real Estate websiteusing React, Tailwind CSS, and Firebase.',
+    link: 'https://real-estate-website-c4nm.vercel.app/',
+    image: 'realestae.png'
+  },
   {
     title:"Make-My-Journey",
     description: 'A Booking Website.',
@@ -16,10 +22,10 @@ const projects = [
     image: 'web.png'
   },
   {
-    title: 'real-estate-website',
-    description: 'Developed a fully responsive Real Estate websiteusing React, Tailwind CSS, and Firebase.',
-    link: 'https://real-estate-website-c4nm.vercel.app/',
-    image: 'realestae.png'
+    title: 'Todo List',
+    description: 'Developed a fully responsive Todo List',
+    link: 'https://madhusmita-masanta.github.io/Brainwave_Matrix_Intern/',
+    image: 'https://madhusmita-masanta.github.io/Brainwave_Matrix_Intern/'
   },
   
 ];
