@@ -25,7 +25,7 @@ const projects = [
     title: 'Todo List',
     description: 'Developed a fully responsive Todo List',
     link: 'https://madhusmita-masanta.github.io/Brainwave_Matrix_Intern/',
-    image: 'Screenshot 2024-11-12 173056.png'
+    image: 'web.png'
   },
   
 ];
