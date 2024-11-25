@@ -5,7 +5,7 @@ import { TypeAnimation } from 'react-type-animation'; // Import TypeAnimation
 function Home() {
   const handleDownloadResume = () => {
     // Your resume PDF file
-    window.open('/Madhusmita Masanta Resume.pdf', '_blank');
+    window.open('/Madhusmita Masanta (2).pdf', '_blank');
   };
 
   return (
