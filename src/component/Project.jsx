@@ -4,13 +4,6 @@ import 'aos/dist/aos.css';
 
 const projects = [
    {
-    title: 'Streaming App',
-    description: 'a React-based movie app featuring dynamic routing, API integration, and a sleek UI. Open to opportunities to contribute and grow as a developer!',
-    link: 'https://lnkd.in/gARhyYsj',
-    image: 'https://lnkd.in/gARhyYsj'
-  },
-   
-   {
     title: 'real-estate-website',
     description: 'Developed a fully responsive Real Estate websiteusing React, Tailwind CSS, and Firebase.',
     link: 'https://real-estate-website-c4nm.vercel.app/',
