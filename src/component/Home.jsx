@@ -98,7 +98,7 @@ function Home() {
 
             {/* Resume Button */}
             <button
-{/*               onClick={handleDownloadResume} */}
+/*               onClick={handleDownloadResume} */
               className="mt-6 px-4 py-2 bg-[#f27e49] text-white rounded hover:bg-blue-700 transition duration-300 ease-in-out transform hover:scale-105"
               style={{ cursor: 'pointer' }}
             >

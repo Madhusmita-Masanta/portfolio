@@ -1,4 +1,3 @@
-
 import React, { useEffect } from "react";
 import { Award, Folder, Users } from "react-feather";
 import aboutme from "../assets/giphy.webp";

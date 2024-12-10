@@ -3,17 +3,17 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const projects = [
+  {
+    title: 'Streaming App',
+    description: 'A React-based movie app featuring dynamic routing, API integration, and a sleek UI',
+    link: 'https://steaming-app-react.vercel.app/',
+    image: 'stream.png'
+  },
    {
     title: 'real-estate-website',
     description: 'Developed a fully responsive Real Estate websiteusing React, Tailwind CSS, and Firebase.',
     link: 'https://real-estate-website-c4nm.vercel.app/',
     image: 'realestae.png'
-  },
-  {
-    title:"Make-My-Journey",
-    description: 'A Booking Website.',
-    link: 'https://madhusmita-masanta.github.io/Make-My-Journey/index.html',
-    image: 'https://madhusmita-masanta.github.io/Make-My-Journey/img/banner.jpg'
   },
   {
     title: 'WeatherWeb',
@@ -54,7 +54,7 @@ const Projects = () => {
     <section className="py-10 bg-gray-100">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-8">My Projects</h2>
-        <div className="flex flex-wrap justify-center">
+        <div className="flex flex-wrap justify-center ">
           {projects.map((project, index) => (
             <ProjectCard 
               key={index}
