@@ -70,9 +70,12 @@ function App() {
           {activeTab === 'workHistory' && (
             <div>
               <h1 className="text-2xl font-bold">Internship (Jun - Sept 2024)</h1>
-              <li>Worked as a frontend developer, building responsive and interactive web components using React and Tailwind CSS.</li>
-              <li>Collaborated with back-end developers to integrate databases. Gathered and refined specifications and requirements based on technical or UX design requirements.</li>
-              <li>Built web applications with web development best practices.</li>
+              <li>Worked as a Frontend Developer Intern, focusing on building responsive and interactive web components using React and Tailwind CSS.</li>
+              <li>Designed and implemented intuitive UI components to enhance user experience.</li>
+              <li>Collaborated with back-end developers to integrate APIs and databases effectively.</li> 
+              <li>Gathered and refined specifications and requirements based on technical or UX design needs.</li>
+              <li>Followed web development best practices to build scalable and maintainable applications.</li>
+              <li>Conducted usability testing to ensure the functionality and visual appeal of applications</li>
             </div>
           )}
           {activeTab === 'programmingSkills' && (
